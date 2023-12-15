@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.26916187.chunk.css",
+    "main.css": "./static/css/main.cce36b79.chunk.css",
     "main.js": "./static/js/main.b6bd6a54.chunk.js",
     "main.js.map": "./static/js/main.b6bd6a54.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
@@ -8,14 +8,14 @@
     "static/js/2.65c6e952.chunk.js": "./static/js/2.65c6e952.chunk.js",
     "static/js/2.65c6e952.chunk.js.map": "./static/js/2.65c6e952.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.26916187.chunk.css.map": "./static/css/main.26916187.chunk.css.map",
+    "static/css/main.cce36b79.chunk.css.map": "./static/css/main.cce36b79.chunk.css.map",
     "static/js/2.65c6e952.chunk.js.LICENSE.txt": "./static/js/2.65c6e952.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.65c6e952.chunk.js",
-    "static/css/main.26916187.chunk.css",
+    "static/css/main.cce36b79.chunk.css",
     "static/js/main.b6bd6a54.chunk.js"
   ]
 }
